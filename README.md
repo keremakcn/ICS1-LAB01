@@ -27,12 +27,13 @@ git add -A && git commit -m "Lab 1" && git push    # submit (your last push befo
 
 ## Part A · Warm-up: meow, with a custom block
 
-Meow: PASTE-YOUR-PROJECT-LINK-HERE
+Meow: https://scratch.mit.edu/projects/1385755334
 
 ## Part B · Your own project
 
-Project: PASTE-YOUR-PROJECT-LINK-HERE
+Project: https://scratch.mit.edu/projects/1364445707
 
 One or two sentences on what it does and which custom block, variable, loop, condition and event it uses:
 
-(write here)
+(A scratch game for Firat University Computer Science Week 1 Lab
+In this scratch game you will manage a monkey and trying to collect bananas before time over.)
