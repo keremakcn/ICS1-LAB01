@@ -6,10 +6,10 @@ Write an algorithm for ONE of these, as numbered steps, the way we wrote the pho
 Rules: at least 6 numbered lines; use at least one "if" and one loop ("go back to line N", "repeat" or "while").
 Replace the example below with your own.
 
-1  Pick up the first paper
-2  Remember its number as "largest so far"
-3  If there are no papers left, go to line 7
-4  Pick up the next paper
-5  If its number is bigger than "largest so far", remember it as "largest so far"
-6  Go back to line 3
-7  Announce "largest so far"
+1. Take the first exam paper from the pile
+2. Record its number as the highest seen so far
+3. If the pile is empty, skip to line 7
+4. Take the next exam paper from the pile
+5. If its number exceeds the highest seen so far, update the highest seen so far with this number
+6. Repeat from line 3
+7. Report the highest number found
